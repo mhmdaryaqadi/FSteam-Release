@@ -1,5 +1,1 @@
-{
-  "version": "3.0.1",
-  "download_url": "https://github.com/mhmdaryaqadi/GameZone-Release/releases/download/v3.0.1/GameZoneSetup_v3.0.1.exe",
-  "changelog": "\u2728 Pembaruan GameZone v3.0.1:\n- Tombol Hapus (\u2715) instan di seluruh kolom pencarian (Can I Run It, Inject Hub, Library, Cloud Save, Manifest Pin, Workshop).\n- Optimasi ultra-smooth untuk PC spek rendah & HDD.\n- Peningkatan kestabilan OTA Hotfix & auto-purge sisa instalasi."
-}
+{}
